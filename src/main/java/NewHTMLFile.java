@@ -1,0 +1,4 @@
+interface NewHTMLFile {
+    String getHTMLContent();
+}
+
